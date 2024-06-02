@@ -1,0 +1,115 @@
+{
+  "product": "Brazil Public Holidays 2025",
+  "roadmapItems": [
+    {
+      "title": "New Year's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-01-01T12:00:00",
+      "endDate": "2025-01-01T12:00:00",
+      "source": "Government",
+      "product": "Brazil Public Holidays 2025",
+      "style": "blue",
+      "description": "Celebration of the New Year"
+    },
+    {
+      "title": "Carnival",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-02-24T12:00:00",
+      "endDate": "2025-02-24T12:00:00",
+      "source": "Government",
+      "product": "Brazil Public Holidays 2025",
+      "style": "yellow",
+      "description": "Festive celebration before Lent"
+    },
+    {
+      "title": "Good Friday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-04-10T12:00:00",
+      "endDate": "2025-04-10T12:00:00",
+      "source": "Government",
+      "product": "Brazil Public Holidays 2025",
+      "style": "purple",
+      "description": "Observance of Jesus Christ's crucifixion"
+    },
+    {
+      "title": "Tiradentes Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-04-21T12:00:00",
+      "endDate": "2025-04-21T12:00:00",
+      "source": "Government",
+      "product": "Brazil Public Holidays 2025",
+      "style": "green",
+      "description": "Commemoration of Brazilian national hero"
+    },
+    {
+      "title": "Labor Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-05-01T12:00:00",
+      "endDate": "2025-05-01T12:00:00",
+      "source": "Government",
+      "product": "Brazil Public Holidays 2025",
+      "style": "teal",
+      "description": "Recognition of workers' contributions"
+    },
+    {
+      "title": "Independence Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-09-07T12:00:00",
+      "endDate": "2025-09-07T12:00:00",
+      "source": "Government",
+      "product": "Brazil Public Holidays 2025",
+      "style": "yellow",
+      "description": "Celebration of Brazil's independence"
+    },
+    {
+      "title": "Our Lady of Aparecida",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-10-12T12:00:00",
+      "endDate": "2025-10-12T12:00:00",
+      "source": "Government",
+      "product": "Brazil Public Holidays 2025",
+      "style": "blue",
+      "description": "Patroness of Brazil celebrated"
+    },
+    {
+      "title": "All Souls' Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-11-02T12:00:00",
+      "endDate": "2025-11-02T12:00:00",
+      "source": "Government",
+      "product": "Brazil Public Holidays 2025",
+      "style": "purple",
+      "description": "Remembrance of the deceased"
+    },
+    {
+      "title": "Republic Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-11-15T12:00:00",
+      "endDate": "2025-11-15T12:00:00",
+      "source": "Government",
+      "product": "Brazil Public Holidays 2025",
+      "style": "green",
+      "description": "Establishment of the Brazilian Republic"
+    },
+    {
+      "title": "Christmas Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-12-25T12:00:00",
+      "endDate": "2025-12-25T12:00:00",
+      "source": "Government",
+      "product": "Brazil Public Holidays 2025",
+      "style": "red",
+      "description": "Celebration of the birth of Jesus Christ"
+    }
+  ]
+}
